@@ -1,0 +1,5 @@
+
+# for the first time
+
+install.packages(c("shiny", "dplyr", "ggplot2", "tidyr", "shinyjs", "httr", "xml2", "rvest", "stringr"))
+
