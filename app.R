@@ -2,6 +2,8 @@
 # R Shiny Multi-Function Demo App
 # ===============================
 
+#  Rscript "c:\Users\USER\Downloads\R application\app.R" # to run
+
 library(shiny)
 library(dplyr)
 library(ggplot2)
