@@ -1,5 +1,12 @@
+This is the setup instructions for the R application.
 
-# for the first time
-
-install.packages(c("shiny", "dplyr", "ggplot2", "tidyr", "shinyjs", "httr", "xml2", "rvest", "stringr"))
-
+1. Install R from the official website: https://cran.r-project.org/
+2. Install RStudio from the official website: https://www.rstudio.com/products/rstudio/download/
+3. Open RStudio and run the following command: install.packages("shiny", "dplyr", "ggplot2", "tidyr", "shinyjs", "plotly", "readxl")
+4. Open the app.R file and run it in RStudio.
+5. The application will open in your default web browser.
+6. The application will have 4 main sections: BMI Calculator, Reaction Test, BMI Result, and About.
+7. The BMI Calculator will allow you to calculate your BMI.
+8. The Reaction Test will allow you to test your reaction time.
+9. The BMI Result will show you your BMI result.
+10. The About will show you the about page.
